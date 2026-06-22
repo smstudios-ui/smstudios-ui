@@ -21,10 +21,10 @@ Building modern digital experiences and creative solutions.
 ## 👨‍💻 About Me
 
 ```yaml
-Name: Your Name
-Company: Nexaweb Studio
+Name: Sushan Mendaka
+Company: SM Studios
 Role: Founder & Developer
-Location: Sri Lanka
+Location: Colombo,Sri Lanka
 Focus:
   - Web Development
   - UI/UX Design
