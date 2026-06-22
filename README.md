@@ -79,13 +79,6 @@ Focus:
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=smstudios-ui&theme=tokyonight&hide_border=true"/>
 </p>
 
----
-
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=smstudios-ui&theme=radical" alt="GitHub Achievements">
-</p>
 
 ---
 
