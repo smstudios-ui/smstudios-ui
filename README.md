@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F2027,50:203A43,100:2C5364&text=Hi%20There!%20👋&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20•%20Designer%20•%20Founder%20of%20Nexaweb%20Studio&descAlignY=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F2027,50:203A43,100:2C5364&text=Hi%20There!%20👋&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20•%20Designer%20•%20Founder%20of%20SM%20Studio&descAlignY=60"/>
 
 <h1 align="center">I'm Sushan Mendaka</h1>
 
