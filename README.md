@@ -81,10 +81,10 @@ Focus:
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=smstudios-ui&theme=tokyonight&no-frame=true&margin-w=10"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=smstudios-ui&theme=algolia&no-frame=true&column=4&margin-w=15&margin-h=15" />
 </p>
 
 ---
