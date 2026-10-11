@@ -83,11 +83,13 @@
 
 ---
 
+---
+
 ### 📬 Get In Touch
 
-<p align="center">
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-050505?style=for-the-badge&logo=gmail&logoColor=00BFFF" alt="Email"></a>
-  <a href="https://wa.me/yourphonenumber"><img src="https://img.shields.io/badge/WhatsApp-050505?style=for-the-badge&logo=whatsapp&logoColor=00BFFF&dummy=bypass" alt="WhatsApp"></a>
-</p>
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-050505?style=for-the-badge&logo=gmail&logoColor=00BFFF)](mailto:your.email@example.com)
+[![WhatsApp](https://img.shields.io/badge/Chat-050505?style=for-the-badge&logo=whatsapp&logoColor=00BFFF)](https://wa.me/yourphonenumber)
 
 </div>
