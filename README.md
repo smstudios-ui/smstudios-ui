@@ -12,7 +12,7 @@ Building modern digital experiences and creative solutions.
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Poppins&size=24&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;Creative+Graphic+Designer;Professional+Video+Editor;Founder+of+Nexaweb+Studio;Always+Learning+New+Technologies)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Poppins&size=24&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;Creative+Graphic+Designer;Professional+Video+Editor;Founder+of+SM+Studio;Always+Learning+New+Technologies)](https://git.io/typing-svg)
 
 </div>
 
