@@ -89,7 +89,7 @@
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-050505?style=for-the-badge&logo=gmail&logoColor=00BFFF)](mailto:your.email@example.com)
-[![WhatsApp](https://img.shields.io/badge/Chat-050505?style=for-the-badge&logo=whatsapp&logoColor=00BFFF)](https://wa.me/yourphonenumber)
+[![Email](https://img.shields.io/badge/Email-050505?style=for-the-badge&logo=gmail&logoColor=00BFFF)](mailto:smstudios.info.online@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/Chat-050505?style=for-the-badge&logo=whatsapp&logoColor=00BFFF)](https://wa.me/0752897881)
 
 </div>
