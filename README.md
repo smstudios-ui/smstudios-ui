@@ -67,17 +67,19 @@
 
 ---
 
+---
+
 ### 🌐 Let's Connect
 
 <p align="center">
   <a href="https://github.com/smstudios-ui">
-    <img src="https://img.shields.io/badge/GitHub-050505.svg?style=for-the-badge&logo=github&logoColor=00BFFF" alt="GitHub" />
+    <img src="https://img.shields.io/static/v1?label=&message=GitHub&color=050505&style=for-the-badge&logo=github&logoColor=00BFFF" alt="GitHub" />
   </a>
   <a href="https://www.linkedin.com/in/sushan-mendaka/">
-    <img src="https://img.shields.io/badge/LinkedIn-050505.svg?style=for-the-badge&logo=linkedin&logoColor=00BFFF" alt="LinkedIn" />
+    <img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=050505&style=for-the-badge&logo=linkedin&logoColor=00BFFF" alt="LinkedIn" />
   </a>
   <a href="https://smstudios.online">
-    <img src="https://img.shields.io/badge/Portfolio-050505.svg?style=for-the-badge&logo=vercel&logoColor=00BFFF" alt="Portfolio" />
+    <img src="https://img.shields.io/static/v1?label=&message=Portfolio&color=050505&style=for-the-badge&logo=vercel&logoColor=00BFFF" alt="Portfolio" />
   </a>
 </p>
 
@@ -87,10 +89,10 @@
 
 <p align="center">
   <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-050505.svg?style=for-the-badge&logo=gmail&logoColor=00BFFF" alt="Email" />
+    <img src="https://img.shields.io/static/v1?label=&message=Email&color=050505&style=for-the-badge&logo=gmail&logoColor=00BFFF" alt="Email" />
   </a>
   <a href="https://wa.me/yourphonenumber">
-    <img src="https://img.shields.io/badge/WhatsApp-050505.svg?style=for-the-badge&logo=whatsapp&logoColor=00BFFF" alt="WhatsApp" />
+    <img src="https://img.shields.io/static/v1?label=&message=WhatsApp&color=050505&style=for-the-badge&logo=whatsapp&logoColor=00BFFF" alt="WhatsApp" />
   </a>
 </p>
 
