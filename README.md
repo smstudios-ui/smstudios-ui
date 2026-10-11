@@ -1,10 +1,13 @@
 <div align="center">
 
-# 👋 Hi there, I'm Sushan Mendaka
+<!-- Animated Waving Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=250&section=header&text=Sushan%20Mendaka&fontSize=55&fontAlignY=35&desc=Web%20Developer%20|%20Designer%20|%20Video%20Editor&descAlignY=55&descSize=20&fontColor=ffffff&animation=twinkling" alt="Animated Header" width="100%" />
+
+<br><br>
 
 <!-- Animated Role Subtitle with Rajdhani Font -->
 <a href="https://smstudios.online">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Rajdhani&weight=700&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=💻+Web+Developer;🎨+Graphic+Designer;🎬+Video+Editor;🚀+Founder+of+SM+Studios" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Rajdhani&weight=700&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=🚀+Founder+of+SM+Studios;💻+Building+Modern+Web+Apps;🎨+Crafting+UI%2FUX+Experiences;🎬+Producing+Motion+Graphics" alt="Typing SVG" />
 </a>
 
 <p align="center">
@@ -50,7 +53,7 @@
 
 ### 📊 GitHub Activity & Stats
 
-<!-- Electric Blue and Deep Black Themed GitHub Stats -->
+<!-- Electric Blue and Deep Black Themed GitHub Stats (Now with smooth fade-in animations on load) -->
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=smstudios-ui&show_icons=true&bg_color=050505&title_color=00BFFF&text_color=A0A0A0&icon_color=00BFFF&border_color=00BFFF&border_radius=10" alt="GitHub Stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smstudios-ui&layout=compact&bg_color=050505&title_color=00BFFF&text_color=A0A0A0&border_color=00BFFF&border_radius=10" alt="Top Languages" />
@@ -75,5 +78,8 @@
     <img src="https://img.shields.io/badge/Portfolio_Website-050505?style=for-the-badge&logo=vercel&logoColor=00BFFF" alt="Portfolio" />
   </a>
 </p>
+
+<!-- Animated Footer Line -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=50&section=footer" alt="Animated Footer" width="100%" />
 
 </div>
